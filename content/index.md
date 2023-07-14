@@ -40,5 +40,5 @@ list:
       src: /icons/logo-1.svg
   - name: TechnoBrain
     icon:
-      src: /icons/logo-2.jpeg
+      src: /icons/logo-2.svg
 ---
