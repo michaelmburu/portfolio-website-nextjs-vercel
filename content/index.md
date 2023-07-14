@@ -9,7 +9,7 @@ seo:
 images:
   - src: /hero.jpg
     alt: my photo
-  - src: /hero-mobile.jpg
+  - src: /hero.jpg
     alt: my photo
 ---
 
@@ -32,29 +32,13 @@ As a Product Manager, I excel in user-centered design thinking for both enterpri
   text: Microsoft Certified
 ---
 
-
-
----cta
----
-<Button href="/contact" size="lg">
-  Get Resume
-</Button>
-
-
-
 ---companies
 title: Trusted By
 list:
-  - name: Company 1
+  - name: Microsoft
     icon:
       src: /icons/logo-1.svg
   - name: TechnoBrain
     icon:
-      src: /icons/logo-3.svg
-  - name: Company 3
-    icon:
-      src: /icons/logo-3.svg
-  - name: Company 4
-    icon:
-      src: /icons/logo-4.svg
+      src: /icons/logo-2.jpeg
 ---
