@@ -8,7 +8,12 @@ function MyApp({ Component, pageProps }) {
   const getLayout = Component.getLayout || ((page) => page)
 
   return (
-    <MDXProvider components={MDXComponents}>{getLayout(<Component {...pageProps} />)}</MDXProvider>
+    <>
+      <MDXProvider components={MDXComponents}>
+        {getLayout(<Component {...pageProps} />)}
+      </MDXProvider>
+      <meta name="google-site-verification" content="xOxDON0o9yfmcqSLaMqQluMdJNAR_Zb8v6aZ26aCYCc" />
+    </>
   )
 }
 
