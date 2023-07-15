@@ -40,15 +40,18 @@ list:
 ---history[0]
 title: Employment
 list:
-  - name: MetaVerse Inc.
-    description: Web3 Developer
-    date: 2020-Present
-  - name: Vircil Intl Co..
-    description: Back-End Developer and Designer
+  - name: Safaricom PLC.
+    description: Senior Solutions Architect
+    date: 2021-Present
+  - name: TechnoBrain Ltd
+    description: Microsoft Devops Engineer (Vendor)
+    date: 2020-2021
+  - name: Elernic Limited
+    description: Software Engineer & Azure Cloud Architect
     date: 2018-2020
-  - name: Crowdcube Inc.
-    description: Technical Support
-    date: 2018-2015
+  - name: All In One Ltd (Krutec GmbH)
+    description: Software Engineer & Azure Cloud Architect
+    date: 2018-2020
 ---
 
 
@@ -56,13 +59,7 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: JKUAT University
+    description: BSc (Information Technology)
+    date: 2012-2016
 ---

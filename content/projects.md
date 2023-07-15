@@ -19,7 +19,6 @@ repositories:
 Discover my most popular open-source projects on Github.
 
 
-
 ---projects
 collection:
   path: /projects

@@ -16,95 +16,80 @@ seo:
   ### _My Expertise_
 </PageTitle>
 
-###### Solving problems
+###### Product Management
 
-I design products that are more than pretty. I make them shippable and usable.
-Et tempor non mollit dolor et do aute voluptate ea ullamco.
+An experienced product leader who speciaizes in bringing amazing product experiences to life. My focus is on collaboration between customer and business, with cross-functional partners to deliver successful results. My specialties include A/B tests, multi-platform, multi-channel, product stategy and managing roadmap. 
 
 ###### What you can expect
 
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
-
-###### Applications I'm fluent in
-
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
+- Product Management
+- Customer Research & Usablity
+- Data Driven Analysis
+- Solutions Architecture
 
 <Sep size="12" />
 
-<Button href="/contact" variant="white" size="sm">
-  Get Free Price Quote
-</Button>
-
-
 
 ---services[0]
-title: Web and Mobile App Design
+title: Product Management
 icon:
   src: /icons/mobile-app.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  A curious and empathetic researcher with a passion for unraveling user insights, transforming them into actionable strategies, and weaving captivating user experiences that leave a lasting impact.
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design</strong>
-    - <strong>Front-end Development</strong>
+    - <strong>User Research Methodologies</strong>
+    - <strong>Data Analysis & Interpretation</strong>
+    - <strong>Prototype Design & Testing</strong>
 
 </small>
 
 
 
 ---services[1]
-title: Project Strategy & Development
+title: Data Driven Analysis
 icon:
   src: /icons/prisma.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  A meticulous and insightful analyst with a passion for unraveling complex data puzzles, transforming raw information into actionable insights that drive informed decision-making and unlock hidden opportunities.
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design </strong>
-    - <strong>Front-end Development</strong>
+    - <strong>Advanced Data Analytics</strong>
+    - <strong>Data Architecture</strong>
+    - <strong>Story Telling With Data</strong>
 
 </small>
 
 
 
 ---services[2]
-title: UI/UX Design & Optimization
+title: Solutions Architecture
 icon:
   src: /icons/dashboard.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+ A visionary problem-solver with a penchant for weaving intricate technological landscapes, seamlessly integrating systems and designing innovative solutions that harmonize functionality, scalability, and security, creating a symphony of digital brilliance.
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design</strong>
-    - <strong>Front-end Development</strong>
+    - <strong>Debugging Superpowers</strong>
+    - <strong>Creative Problem Solving</strong>
+    - <strong>Juggling Technology Stacks</strong>
 </small>
 
 
 
 ---services[3]
-title: Application Audit & Debugging
+title: Supervillain at Night
 icon:
   src: /icons/audit.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+  When the sun sets and the city plunges into darkness, I become the cunning mastermind, locked in an eternal battle of wits with the Batman, using my nefarious charm and calculated schemes to challenge the caped crusader's righteousness.
 
-  - <strong>Design Strategy </strong>
-  - <strong>Web and Mobile App Design </strong>
-  - <strong>Front-end Development</strong>
+  - <strong>Ingenious Gadgets & Technology </strong>
+  - <strong>Manipulative Persuasion</strong>
+  - <strong>Crafting Intrecate Plans</strong>
 </small>

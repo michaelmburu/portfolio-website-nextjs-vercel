@@ -30,16 +30,11 @@ export const menu = [
     slug: '/services',
     Icon: SlBriefcase,
   },
-  {
-    name: 'Articles',
-    slug: '/blog',
-    Icon: TfiPencilAlt,
-  },
-  {
+  /*   {
     name: 'Projects',
     slug: '/projects',
     Icon: SlTrophy,
-  },
+  }, */
   {
     name: 'Contact',
     slug: '/contact',
