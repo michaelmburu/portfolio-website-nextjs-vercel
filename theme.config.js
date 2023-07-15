@@ -49,17 +49,17 @@ export const menu = [
 export const social = [
   {
     name: 'Twitter',
-    url: 'https://www.twitter.com/',
+    url: 'https://www.twitter.com/codercety',
     Icon: IoLogoTwitter,
   },
-  {
+  /*   {
     name: 'Instagram',
     url: 'https://www.instagram.com/',
     Icon: IoLogoInstagram,
-  },
+  }, */
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/',
+    url: 'https://www.linkedin.com/in/michaelmburu',
     Icon: IoLogoLinkedin,
   },
 ]

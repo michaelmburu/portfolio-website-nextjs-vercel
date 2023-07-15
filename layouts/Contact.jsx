@@ -86,7 +86,7 @@ const Contact01 = ({ main = {} }) => {
         >
           <ContentRenderer source={main} />
         </Reveal>
-        <Reveal
+        {/*  <Reveal
           animation="fade-in zoom-in"
           className="md:with-back-plate max-w-3xl border border-omega-700 md:before:bg-omega-700"
         >
@@ -133,7 +133,7 @@ const Contact01 = ({ main = {} }) => {
               </div>
             </form>
           </FormProvider>
-        </Reveal>
+        </Reveal> */}
       </div>
     </div>
   )
