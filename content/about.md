@@ -31,7 +31,7 @@ As long as it's not XML or needs to run on-prem.
 title: I'm Specialized in
 list:
   - Product Management
-  - Solutions Architecture
+  - Solution Architecture
   - Customer Experience
   - Fighting Batman
 ---
@@ -51,7 +51,7 @@ list:
     date: 2018-2020
   - name: All In One Ltd (Krutec GmbH)
     description: Software Engineer & Azure Cloud Architect
-    date: 2018-2020
+    date: 2017-2018
 ---
 
 
