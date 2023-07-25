@@ -30,15 +30,31 @@ As long as it's not XML or needs to run on-prem.
 ---skills_header
 title: I'm Specialized in
 list:
-  - Product Management
+  - Technical Product Management
   - Solution Architecture
   - Customer Experience
   - Fighting Batman
 ---
 
-
 ---history[0]
-title: Employment
+title: Certifications
+list:
+  - name: Product Led Certfied
+    description: 
+    date: 
+  - name: Azure Solutions Architect Expert
+    description: 
+    date: 
+  - name: Azure Devops Architect Expert
+    description: 
+    date: 
+  - name: Azure Security Engineer Advanced
+    description: 
+    date: 
+---
+
+---history[1]
+title: Work
 list:
   - name: Safaricom PLC.
     description: Senior Solutions Architect
@@ -50,13 +66,13 @@ list:
     description: Software Engineer & Azure Cloud Architect
     date: 2018-2020
   - name: All In One Ltd (Krutec GmbH)
-    description: Software Engineer & Azure Cloud Architect
+    description: .NET Software Engineer
     date: 2017-2018
 ---
 
 
 
----history[1]
+---history[2]
 title: Education
 list:
   - name: JKUAT University

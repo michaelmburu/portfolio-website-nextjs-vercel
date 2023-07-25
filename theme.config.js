@@ -6,7 +6,7 @@
  * Icons from react-icons: https://react-icons.github.io/react-icons
  */
 
-import { IoLogoTwitter, IoLogoInstagram, IoLogoLinkedin } from 'react-icons/io5'
+import { IoLogoTwitter, IoLogoInstagram, IoLogoLinkedin, IoLogoGithub } from 'react-icons/io5'
 import { TfiHome, TfiPencilAlt } from 'react-icons/tfi'
 import { SlUser, SlBriefcase, SlEnvolope, SlTrophy } from 'react-icons/sl'
 
@@ -48,15 +48,15 @@ export const menu = [
 
 export const social = [
   {
+    name: 'Github',
+    url: 'https://github.com/michaelmburu',
+    Icon: IoLogoGithub,
+  },
+  {
     name: 'Twitter',
     url: 'https://www.twitter.com/codercety',
     Icon: IoLogoTwitter,
   },
-  /*   {
-    name: 'Instagram',
-    url: 'https://www.instagram.com/',
-    Icon: IoLogoInstagram,
-  }, */
   {
     name: 'LinkedIn',
     url: 'https://www.linkedin.com/in/michaelmburu',
@@ -113,7 +113,7 @@ export const siteMetaData = {
   defaultTitle: 'Michael Mburu Portfolio Personal Site',
   titleTemplate: 'Michael Mburu | %s',
   description: 'Product Manager & Senior Solutions Architect Portfolio Site',
-  email: 'hello@example.com',
+  email: 'ichangaimichael@yahoo.com',
   locale: 'en_US',
   twitter: {
     handle: '@handle',
