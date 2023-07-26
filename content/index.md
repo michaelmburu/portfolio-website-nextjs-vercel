@@ -1,8 +1,8 @@
 ---
 layout: Home
 seo:
-  title: Product Manager
-  description: Custom description for this page goes here
+  title: Technical Product Manager
+  description: Michael Mburu - Technical Product MAanger
 ---
 
 ---main
@@ -15,12 +15,11 @@ images:
 
 # <Typewriter>Michael Mburu</Typewriter>
 
-# *Product Manager* <span>&</span> *Author*
+# *Technical Product Manager* <span>&</span> *Author*
 
 <Sep size={12} />
 
-As a Product Manager, I excel in user-centered design thinking for both enterprise and consumer markets. My expertise lies in delivering innovative solutions, prioritizing user needs, and driving seamless collaborations across teams.
-
+As a Technical Product Manager, I excel in user-centered design thinking for both enterprise and consumer markets. My expertise lies in delivering innovative solutions, prioritizing user needs, and driving seamless collaborations across teams.
 
 
 ---achievements
@@ -28,7 +27,7 @@ As a Product Manager, I excel in user-centered design thinking for both enterpri
   text: Years Industry Experience
 - number: 15+
   text: Projects Completed
-- number: 5x
+- number: 6x
   text: Microsoft Certified
 ---
 
