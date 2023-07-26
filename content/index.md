@@ -2,7 +2,7 @@
 layout: Home
 seo:
   title: Technical Product Manager
-  description: Michael Mburu - Technical Product MAanger
+  description: Michael Mburu - Technical Product Manager
 ---
 
 ---main
