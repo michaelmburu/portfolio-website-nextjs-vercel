@@ -19,11 +19,10 @@ I help startups & enterprises bring amazing product experiences to life. When I'
 
 ##### <span>- </span> Interests and Hobbies
 
-Product Design & Development | Software Development | Solutions Architecture | Basketball | DeFI | Fighting Batman | I Hate Oracle | Agile Sucks
-
+Product Design & Development | Software Development | Solutions Architecture | Basketball | DeFI | Fighting Batman | I Hate Oracle & Agile Sucks - Yes I said it.
 ##### <span>03.</span> Framework Preferences
 
-As long as it's not XML or needs to run on-prem. 
+As long as it's not XML or needs to run on-prem. Bruh are we in 2000?
 
 
 
