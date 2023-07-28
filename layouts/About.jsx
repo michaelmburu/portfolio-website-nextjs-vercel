@@ -72,7 +72,7 @@ const Layout = ({ personal_info = {}, cta = {}, skills_header, skills, history }
     <div className="mx-auto">
       <div className="prose prose-invert md:flex">
         <div className="relative flex h-screen basis-1/3 flex-col justify-between pb-24 md:h-auto md:items-center md:py-12">
-          <div className="not-prose absolute top-0 left-0 h-full w-full bg-omega-900 grayscale">
+          <div className="not-prose absolute top-0 left-0 h-full w-full bg-omega-900">
             {personal_info.images?.[0] && (
               <Image
                 src={personal_info.images[0].src}
@@ -85,9 +85,11 @@ const Layout = ({ personal_info = {}, cta = {}, skills_header, skills, history }
             )}
             <div className="absolute top-0 left-0 z-20 h-full w-full bg-gradient-to-b from-transparent via-transparent to-black/90" />
           </div>
-          <div className="z-10 bg-black p-6 text-center">
-            <h3 className="inline">{personal_info.name}</h3>
-          </div>
+          {personal_info.name && (
+            <div className="z-10 bg-black p-6 text-center">
+              <h3 className="inline">{personal_info.name}</h3>
+            </div>
+          )}
           <div className="z-10 p-6 text-center md:p-8">
             <ContentRenderer source={cta} />
           </div>

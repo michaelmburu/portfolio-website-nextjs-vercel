@@ -6,21 +6,20 @@ seo:
 ---
 
 
-
 ---personal_info
-name: Michael Mburu
+name:
 images:
-  - src: /hero.jpg
+  - src: /hero-4.jpg
     alt: my image
 ---
 ##### <span>- </span> About me
 
-I help startups & enterprises bring amazing product experiences to life. When I'm not doing that during the day, you'll find me out at night giving the Batman sleepless nights. 
+I help startups & enterprises bring amazing product experiences to life. When I'm not doing that during the day, you'll find me out at night giving the Batman sleepless nights "( ...Lex Luthor laugh)". 
 
 ##### <span>- </span> Interests and Hobbies
 
-Product Design & Development | Software Development | Solutions Architecture | Basketball | DeFI | Fighting Batman | I Hate Oracle & Agile Sucks - Yes I said it.
-##### <span>03.</span> Framework Preferences
+Product Design & Development | Software Engineering | Solutions Architecture | Basketball | Decentralised Finance | Fighting Batman | I Hate Oracle & Agile Sucks - "Yes I said it ( ...in Chris Rocks Voice)".
+##### <span>- </span> Framework Preferences
 
 As long as it's not XML or needs to run on-prem. Bruh are we in 2000?
 
@@ -29,8 +28,8 @@ As long as it's not XML or needs to run on-prem. Bruh are we in 2000?
 ---skills_header
 title: I'm Specialized in
 list:
-  - Technical Product Management
-  - Solution Architecture
+  - Product Management
+  - Solutions Architect
   - Customer Experience
   - Fighting Batman
 ---
