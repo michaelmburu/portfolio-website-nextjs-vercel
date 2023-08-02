@@ -1,8 +1,8 @@
 ---
 layout: Services
 seo:
-  title: Web Development Services
-  description: Custom description for this page goes here
+  title: Michael Mburu - Services
+  description: Design Thinker, Technical Product Management
 ---
 
 
