@@ -22,7 +22,7 @@ Thinking about a new project, a problem to solve, or just want to connect? Let's
 
 <small>
 
-  <Icon src="/icons/graphql.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> GitHub: <a href="https://github.com/michaelmburu"> Michael Mburu </a>
+  <Icon src="/icons/graphql.svg"  className="mr-2 inline align-middle fill-current text-omega-500" /> Github: [Michael Mburu](https://github.com/michaelmburu)
 
   <Icon src="/icons/mail.svg" className="mr-2 inline align-middle fill-current text-omega-500" /> Email: ichangaimichael@yahoo.com
 
