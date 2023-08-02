@@ -2,7 +2,7 @@
 layout: Services
 seo:
   title: Michael Mburu - Services
-  description: Design Thinker, Technical Product Management
+  description: Design Thinker, Technical Product Management, Solutions Architect, Data Driven
 ---
 
 
