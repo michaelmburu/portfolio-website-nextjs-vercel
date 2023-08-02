@@ -16,13 +16,13 @@ seo:
   ### _My Expertise_
 </PageTitle>
 
-###### Product Management
+###### Technical Product Management
 
 An experienced product leader who speciaizes in bringing amazing product experiences to life. My focus is on collaboration between customer and business, with cross-functional partners to deliver successful results. My specialties include A/B tests, multi-platform, multi-channel, product stategy and managing roadmap. 
 
 ###### What you can expect
 
-- Product Management
+- Design Thinking
 - Customer Research & Usablity
 - Data Driven Analysis
 - Solutions Architecture
@@ -31,7 +31,7 @@ An experienced product leader who speciaizes in bringing amazing product experie
 
 
 ---services[0]
-title: Product Management
+title: Technical Product Management
 icon:
   src: /icons/mobile-app.svg
 ---
