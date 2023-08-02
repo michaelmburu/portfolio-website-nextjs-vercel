@@ -28,7 +28,7 @@ As long as it's not XML or needs to run on-prem. Bruh are we in 2000?
 ---skills_header
 title: I'm Specialized in
 list:
-  - Product Management
+  - Design Thinkinh
   - Solutions Architect
   - Customer Experience
   - Fighting Batman
