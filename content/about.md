@@ -26,18 +26,22 @@ As long as it's not XML or needs to run on-prem. Bruh are we in 2000?
 
 
 ---skills_header
-title: I'm Specialized in
+title: My key areas of value focus
 list:
-  - Design Thinkinh
-  - Solutions Architect
-  - Customer Experience
-  - Fighting Batman
+  - Design Thinking
+  - Technical Product Management
+  - Customer eXperience
+  - Cloud Architecture
+  - Fighting Batman (I'm Serious..)
 ---
 
 ---history[0]
 title: Certifications
 list:
   - name: Product Led Certfied
+    description: 
+    date: 
+  - name: Aviatrix Mulitcloud Network Associate
     description: 
     date: 
   - name: Azure Solutions Architect Expert
@@ -49,6 +53,7 @@ list:
   - name: Azure Security Engineer Advanced
     description: 
     date: 
+
 ---
 
 ---history[1]

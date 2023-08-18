@@ -27,7 +27,7 @@ As a Technical Product Manager, I excel in user-centered design thinking for bot
   text: Years Industry Experience
 - number: 15+
   text: Projects Completed
-- number: 6x
+- number: 5x
   text: Microsoft Certified
 ---
 
