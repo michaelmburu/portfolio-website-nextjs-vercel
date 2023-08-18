@@ -16,7 +16,7 @@ seo:
   ### _Let's talk about your project_
 </PageTitle>
 
-Thinking about a new project, a problem to solve, or just want to connect? Let's do it!
+Thinking about a new project, a problem to solve, just want to connect or join your team? Let's do it!
 
 <Sep size="12" />
 

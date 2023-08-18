@@ -32,18 +32,18 @@ list:
   - Technical Product Management
   - Customer eXperience
   - Cloud Architecture
-  - Fighting Batman (I'm Serious..)
+  - Taking down the Batman (In one sprint...)
 ---
 
 ---history[0]
 title: Certifications
 list:
-  - name: Product Led Certfied
+  - name: Product Led Certified
     description: 
-    date: 
-  - name: Aviatrix Mulitcloud Network Associate
+    date:
+  - name: Product Analytics Certified
     description: 
-    date: 
+    date:  
   - name: Azure Solutions Architect Expert
     description: 
     date: 
@@ -53,7 +53,9 @@ list:
   - name: Azure Security Engineer Advanced
     description: 
     date: 
-
+  - name: Aviatrix Mulitcloud Network Associate
+    description: 
+    date: 
 ---
 
 ---history[1]
