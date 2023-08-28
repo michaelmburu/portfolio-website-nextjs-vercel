@@ -19,7 +19,7 @@ images:
 
 <Sep size={12} />
 
-As a Technical Product Manager, I excel in user-centered design thinking for both enterprise and consumer markets. My expertise lies in delivering innovative solutions, prioritizing user needs, and driving seamless collaborations across teams.
+As a Technical Product Manager, I excel in design thinking for both enterprise and consumer markets. My expertise lies in delivering innovative solutions, prioritizing user needs, and driving seamless collaborations across teams.
 
 
 ---achievements
