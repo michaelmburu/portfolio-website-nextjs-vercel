@@ -18,7 +18,7 @@ I help startups & enterprises bring amazing product experiences to life. When I'
 
 ##### <span>- </span> Interests and Hobbies
 
-Product Design & Development | Software Engineering | Solutions Architecture | Basketball | Decentralised Finance | Fighting Batman | I Hate Oracle & Agile Sucks - "Yes I said it ( ...in Chris Rocks Voice)".
+Product Design & Development | Software Engineering | Solutions Architecture | Basketball | Decentralised Finance | Fighting Batman | Not a fun of Oracle & Scrum Sucks - "Yes I said it ( ...in Chris Rocks Voice)".
 ##### <span>- </span> Framework Preferences
 
 As long as it's not XML or needs to run on-prem. Bruh are we in 2000?
