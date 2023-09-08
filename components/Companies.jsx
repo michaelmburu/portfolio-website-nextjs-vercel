@@ -13,12 +13,13 @@ const Companies = ({ title, list }) => (
       ))} */}
 
     <div className="flex flex-wrap">
-      <Image src="/badges/badge1.png" alt="badge 1" height="130" width="130" className="px-2" />
-      <Image src="/badges/badge2.png" alt="badge 1" height="130" width="130" className="px-2" />
       <Image src="/badges/badge3.png" alt="badge 1" height="130" width="130" className="px-2" />
+      <Image src="/badges/badge8.png" alt="badge 1" height="130" width="130" className="px-2" />
       <Image src="/badges/badge4.png" alt="badge 1" height="130" width="130" className="px-2" />
       <Image src="/badges/badge5.png" alt="badge 1" height="130" width="130" className="px-2" />
       <Image src="/badges/badge6.png" alt="badge 1" height="130" width="130" className="px-2" />
+      <Image src="/badges/badge1.png" alt="badge 1" height="130" width="130" className="px-2" />
+      <Image src="/badges/badge2.png" alt="badge 1" height="130" width="130" className="px-2" />
       <Image src="/badges/badge7.png" alt="badge 1" height="130" width="130" className="px-2" />
     </div>
   </div>
