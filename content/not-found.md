@@ -2,7 +2,7 @@
 layout: 'BlankCenter'
 seo:
   title: 404 Not Found
-  description: Custom description for this page goes here
+  description: Houston we have a problem
 ---
 
 #### <span>Oops!</span>
@@ -10,8 +10,11 @@ seo:
 
 <Sep line />
 
-The page you were looking for does not exist.
+Houston we have a problem
+
+<Sep line />
+
+Looks like you've ventured into the Bermuda Triangle of the internet..
 
 <Button href="/contact" size="sm">Go Back to Home</Button>
 
-or checkout [my blog](/blog)

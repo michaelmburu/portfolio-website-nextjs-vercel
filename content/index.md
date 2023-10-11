@@ -1,8 +1,8 @@
 ---
 layout: Home
 seo:
-  title: Technical Product Manager
-  description: Michael Mburu - Technical Product Manager
+  title: Cloud Solutions Architect & Technical Product Manager
+  description: Michael Mburu - Cloud Solutions Architect & Technical Product Manager
 ---
 
 ---main

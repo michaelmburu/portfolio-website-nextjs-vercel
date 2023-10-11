@@ -1,8 +1,8 @@
 ---
 layout: Contact
 seo:
-  title: Contact - Michael Ichangai Mburu
-  description: Contact Michael Ichangai Mburu
+  title: Michael Ichangai Mburu
+  description: Michael Ichangai Mburu
 ---
 
 

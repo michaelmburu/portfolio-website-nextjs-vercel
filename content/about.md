@@ -38,7 +38,7 @@ list:
 ---history[0]
 title: Certifications
 list:
-  - name: Product Led Certified
+  - name: Product Management Certified
     description: 
     date:
   - name: Product Analytics Certified
@@ -47,9 +47,15 @@ list:
   - name: Azure Solutions Architect Expert
     description: 
     date: 
-  - name: Azure Security Engineer Advanced
+  - name: Azure AI Engineer Associate
     description: 
     date: 
+  - name: Azure Security Engineer Advanced
+    description:
+    date:
+  - name: Azure Administrator Associate
+    description: 
+    date:
   - name: Aviatrix Mulitcloud Network Associate
     description: 
     date: 
