@@ -47,9 +47,6 @@ list:
   - name: Azure Solutions Architect Expert
     description: 
     date: 
-  - name: Azure Devops Architect Expert
-    description: 
-    date: 
   - name: Azure Security Engineer Advanced
     description: 
     date: 
