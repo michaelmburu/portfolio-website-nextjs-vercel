@@ -50,7 +50,7 @@ list:
   - name: Azure AI Engineer Associate
     description: 
     date: 
-  - name: Azure Security Engineer Advanced
+  - name: Azure Security Engineer Associate
     description:
     date:
   - name: Azure Administrator Associate
