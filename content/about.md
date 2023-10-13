@@ -56,7 +56,7 @@ list:
   - name: Azure Administrator Associate
     description: 
     date:
-  - name: Aviatrix Mulitcloud Network Associate
+  - name: Aviatrix Multicloud Network Associate
     description: 
     date: 
 ---
