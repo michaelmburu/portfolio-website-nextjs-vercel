@@ -65,7 +65,7 @@ list:
 title: Work
 list:
   - name: Safaricom PLC.
-    description: Senior Solutions Architect
+    description: Solutions Architect
     date: 2021-Present
   - name: TechnoBrain Ltd
     description: Microsoft Devops Engineer (Vendor)
