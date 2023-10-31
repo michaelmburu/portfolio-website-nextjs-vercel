@@ -2,7 +2,7 @@
 layout: About
 seo:
   title: About Me
-  description: Custom description for this page goes here
+  description: Innovative, creative and entrepreneurial minded Solutions Architect with a proven history of driving value. A fast and eager learner who is comfortable in ambiguity and thrives in a fast-paced environment.
 ---
 
 
@@ -21,7 +21,7 @@ I help startups & enterprises bring amazing product experiences to life. When I'
 Product Design & Development | Software Engineering | Solutions Architecture | Basketball | Decentralised Finance | Fighting Batman | Not a fun of Oracle & Scrum Sucks - "Yes I said it ( ...in Chris Rocks Voice)".
 ##### <span>- </span> Framework Preferences
 
-As long as it's not XML or needs to run on-prem. Bruh are we in 2000?
+No framework preference but I love working with ASP Core 3.1+, NextJs & Python Flask. Learning Rust as well.
 
 
 
