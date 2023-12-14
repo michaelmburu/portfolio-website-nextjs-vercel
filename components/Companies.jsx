@@ -20,7 +20,7 @@ const Companies = ({ title, list }) => (
       <Image src="/badges/badge6.png" alt="badge 1" height="130" width="130" className="px-2" />
       <Image src="/badges/badge1.png" alt="badge 1" height="130" width="130" className="px-2" />
       <Image src="/badges/badge2.png" alt="badge 1" height="130" width="130" className="px-2" />
-      <Image src="/badges/badge7.png" alt="badge 1" height="130" width="130" className="px-2" />
+      <Image src="/badges/badge9.png" alt="badge 1" height="130" width="130" className="px-2" />
     </div>
   </div>
 )
