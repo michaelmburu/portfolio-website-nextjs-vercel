@@ -23,11 +23,9 @@ As a Technical Product Manager, I excel in design thinking for both enterprise a
 
 
 ---achievements
-- number: 7+
+- number: 8+
   text: Years Industry Experience
-- number: 15+
-  text: Projects Completed
-- number: 7x
+- number: 8x
   text: Industry Certified
 ---
 
