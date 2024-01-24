@@ -15,11 +15,11 @@ images:
 
 # <Typewriter>Michael Mburu</Typewriter>
 
-# *Technical Product Manager* <span>&</span> *Author*
+#### *Cloud Solutions Architect*, *Technical Product Manager* <span>&</span> *Author*
 
 <Sep size={12} />
 
-As a Technical Product Manager, I excel in design thinking for both enterprise and consumer markets. My expertise lies in delivering innovative solutions, prioritizing user needs, and driving seamless collaborations across teams.
+As a Cloud Solutions Architect & Technical Product Manager, I excel in design thinking for both enterprise and consumer markets. My expertise lies in delivering innovative solutions, prioritizing user needs, and driving seamless collaborations across teams.
 
 
 ---achievements
